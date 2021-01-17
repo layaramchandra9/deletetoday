@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Helloo i am from one.txt"
+echo "hi there"
